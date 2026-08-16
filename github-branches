@@ -1,0 +1,12 @@
+]633;E;echo '$ git branch -a';81cf5165-472c-4acf-95ac-da596e690502]633;C$ git branch -a
+  bug-fix-revert
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-revert
+  remotes/origin/main
+
+$ git branch -vv
+  bug-fix-revert c0d99c7 Bug fix revert commit
+  bug-fix-typo   17e3d3b Fix typo in README
+* main           d695016 [origin/main] Add PR verification output
