@@ -1,0 +1,7 @@
+$ git checkout main
+Your branch is up to date with 'origin/main'.
+$ git merge bug-fix-typo
+Updating 52e2160..17e3d3b
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
